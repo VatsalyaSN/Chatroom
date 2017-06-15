@@ -1,7 +1,7 @@
 # Chatroom
 Single page application with three chatroom each performing different action on the text message sent and the older text messages can be Edited and Deleted.
 
-#Installation
+# Installation
 1. To run the application, run the following in terminal
 `git clone https://github.com/VatsalyaSN/Chatroom.git`
 2. Navigate to the Chatroom directory and run the command
